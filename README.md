@@ -53,9 +53,8 @@
 
 
 ## Output:
-<img width="975" height="699" alt="image" src="https://github.com/user-attachments/assets/956a12aa-afe0-4ee9-9927-31c69c7b93d9" />
-<img width="902" height="603" alt="image" src="https://github.com/user-attachments/assets/5a719a65-2dec-415d-a2e3-cc2ebc22fdc1" />
-<img width="900" height="665" alt="image" src="https://github.com/user-attachments/assets/b3072961-7d40-4dcc-896c-3985916fb12b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/85a9c0f0-158e-4cc0-8186-62f2d37afad7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be57cf97-d3a1-450b-9d19-cb6fd2bdafab" />
 
 
 ### Name:SUBITHA S
